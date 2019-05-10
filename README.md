@@ -1,2 +1,1 @@
-"# spell_hack"
-"# spell_hack" 
+This is a simple word Scrambler hack program.
