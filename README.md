@@ -1,1 +1,1 @@
-This is a simple word Scrambler hack program.
+Python Script that enables the ease in Word Scrambling
